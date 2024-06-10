@@ -1,2 +1,8 @@
-# hello_world
-workshop day 2, 6/10/2024
+# My First and Simple Git Repository
+
+This is my first attempt to create a Git repository on GitHub
+The goal here is to learn how to create and maintain a repository
+I am interested in(amoung other things):
+- creating a branch
+- working on the branch and committing my changes
+- merging the brainch to main
